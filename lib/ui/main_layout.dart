@@ -3,7 +3,7 @@ import 'package:flutterdemosidebar/ui/side_bar/side_bar.dart';
 import 'package:get/get.dart';
 
 import '../controller/sidebar_controller.dart';
-import '../custom_app_bar.dart';
+import 'app_bar/custom_app_bar.dart';
 
 class MainLayout extends StatefulWidget {
   final Widget child;
